@@ -1,2 +1,3 @@
-# meu-primeiro-projeto
-TIC em Trilhas - Pensamento Computacional com Python
+def soma (a, b):
+
+	return a + b
