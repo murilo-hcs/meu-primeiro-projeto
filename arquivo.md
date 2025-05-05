@@ -1,3 +1,3 @@
-def soma (a, b):
+def sma (a, b):
 
 	return a + b
